@@ -41,28 +41,6 @@ I build web, mobile applications with a focus on clean, scalable solutions.
 
 ---
 
-## 🎯 Featured Projects
-
-### 🎵 [SingSong - Mobile Application](https://ranto.mahefaniaina.com/project/singsong)
-Mobile app featuring Adventist youth music and Malagasy songs with audio and lyrics.
-**Status:** ✅ Completed
-
-### 🏥 [Addiction Recovery](https://ranto.mahefaniaina.com/project/addiction-recovery)
-Mobile application helping individuals recover from addiction with specialist appointment management.
-**Status:** ✅ Completed
-
-### 🗺️ [GIS Web Applications](https://ranto.mahefaniaina.com/project/gis-futurmap)
-Suite of ~5 professional Geographic Information System web applications.
-**Status:** 🔄 In Progress
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HossanaRanto&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranto-hossana-mahefaniaina-58aa87254/)
